@@ -1,1 +1,1 @@
-<a rel="me" href="https://infosec.exchange/@Dougee">Mastodon</a>
+- You can also find me on <a rel="me" href="https://infosec.exchange/@Dougee">Mastodon</a>

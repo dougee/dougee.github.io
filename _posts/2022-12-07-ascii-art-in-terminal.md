@@ -1,6 +1,6 @@
 ##ASCII Art in MacOS Terminal
 
-Using homebew install brew install toilet app
+Using homebrew install brew install toilet app
 
 ![Homebrew Toilet Install](file:///Users/dougee/dougee.github.io/docs/assets/images/brew-toilet.png)
 

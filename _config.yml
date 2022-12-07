@@ -6,8 +6,8 @@ description: "MacOS Terminal Commands for fun and work." # This will show up in 
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
 twitter_username: "dougee"
-github_username: "githubuser"
-mastodon: "@dougee@infosec.exchange"
+github_username: "dougee"
+mastodon_username: "@dougee@infosec.exchange"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username

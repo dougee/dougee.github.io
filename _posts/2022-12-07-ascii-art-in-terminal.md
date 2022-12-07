@@ -2,10 +2,10 @@
 
 Using homebrew install brew install toilet app
 
-![Homebrew Toilet Install](file:///Users/dougee/dougee.github.io/docs/assets/images/brew-toilet.png)
+![Homebrew Toilet Install](/dougee.github.io/docs/assets/images/brew-toilet.png)
 
 Once installed, in Terminal type the command toilet followed by your words, in this case I am making ASCII art for Hello World
 
 
 
-![Hello World Terminal](file:///Users/dougee/dougee.github.io/docs/assets/images/toilet-terminal.png)
+![Hello World Terminal](/dougee.github.io/docs/assets/images/toilet-terminal.png)

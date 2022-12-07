@@ -20,9 +20,6 @@ github_username: "dougee"
 #########################################################################################
 theme: "minima"
 
-minima:
-  skin: dark
-
 rss: rss
 
 kramdown:

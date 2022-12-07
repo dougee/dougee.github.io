@@ -1,4 +1,4 @@
-##ASCII Art in MacOS Terminal
+## ASCII Art in MacOS Terminal
 
 Using homebrew install brew install toilet app
 

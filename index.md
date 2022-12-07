@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog will contain useful and fun commands that can be sued on the MacOS Terminal. Most programs can be installed using Homebrew.
